@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/felipebaloneker/felipebaloneker/blob/main/img.png" ></img>
+<img align="right" width="250" heigth="250" src="https://github.com/felipebaloneker/felipebaloneker/blob/main/img.png" ></img>
 ### Olá! :vulcan_salute: Bem vindo ao meu repositório.
 Meu nome é felipe, sou aficionado por programação. :monocle_face:<br/>
 Atualmente moro no Rio de Janeiro, Brasil. <br/>
