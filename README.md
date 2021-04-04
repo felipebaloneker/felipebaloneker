@@ -3,8 +3,8 @@
 Meu nome é felipe, sou aficionado por programação. :monocle_face:<br/>
 Atualmente moro no Rio de Janeiro, Brasil. <br/>
 
-:mage: Skills: HTML, CSS, JavaScript, PHP, Python, MySql.<br/>
-:crossed_swords: Ferramentas: Git, Github, VsCode, Sublime, Atom, Linux.<br/>
+:mage: Skills: HTML, CSS, JavaScript, PHP, Java, Python, MySql.<br/>
+:crossed_swords: Ferramentas: Git, Github, VsCode, Sublime, Atom, Netbeans, Terminal.<br/>
  
 ### Me Encontre:<br/>
 :baby_chick:[Twitter](https://twitter.com/felipebaloneke2)<br/>
