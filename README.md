@@ -3,7 +3,7 @@
 Meu nome é felipe, sou aficionado por programação. :monocle_face:<br/>
 Atualmente moro no Rio de Janeiro, Brasil. <br/>
 
-:mage: Skills: HTML, CSS, JavaScript, PHP, Java, Python, MySql.<br/>
+:mage: Skills: HTML, CSS, JavaScript, PHP, Java, Python, MySql, Unix.<br/>
 :crossed_swords: Ferramentas: Git, Github, VsCode, Sublime, Atom, Netbeans, Terminal.<br/>
  
 ### Me Encontre:<br/>
