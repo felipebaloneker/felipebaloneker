@@ -1,7 +1,7 @@
 <img align="right" width="250" heigth="250" src="https://github.com/felipebaloneker/felipebaloneker/blob/main/img.png" ></img>
 ### Hello! :vulcan_salute: Welcome to my repository.
 I am Felipe and i study System Analysis. :monocle_face:<br/>
-At te moment living in Rio de Janeiro, Brazil.<br/>
+At the moment living in Rio de Janeiro, Brazil.<br/>
 
 :mage: Skills: HTML, CSS, JavaScript, PHP, Java, Python, MySql, Unix, NodeJs, React.<br/>
 :crossed_swords: Tools: Git, Github, VsCode, Sublime, Atom, Netbeans, Terminal.<br/>
