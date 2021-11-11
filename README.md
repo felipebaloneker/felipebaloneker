@@ -10,4 +10,3 @@ Currently living in Rio de Janeiro, Brazil.<br/>
 :baby_chick:[Twitter](https://twitter.com/felipebaloneke2)<br/>
 :camera:[Instagram](https://www.instagram.com/felipebaloneker/)<br/>
 :briefcase:[LinkedIn](https://www.linkedin.com/in/felipe-baloneker-1016b3108/)<br/>
-:computer:[Site](https://felipebaloneker.github.io/MyWebSite/)
