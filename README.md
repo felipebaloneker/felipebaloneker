@@ -3,7 +3,7 @@
 I am Felipe and i study System Analysis. :monocle_face:<br/>
 Currently living in Rio de Janeiro, Brazil.<br/>
 
-:mage: Skills: JavaScript, MySql, Unix, NodeJs, React, React Native, Bootstrap, Scrum, Typescript, Webpack.<br/>
+:mage: Skills: NodeJs, React, React Native, VueJs, Typescript, Bootstrap, Scrum, Webpack.<br/>
 :crossed_swords: Tools: Git, Github, VsCode, Sublime, Atom, Netbeans, Terminal.<br/>
  
 ### Contact:<br/>
