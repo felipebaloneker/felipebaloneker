@@ -1,4 +1,4 @@
-<img align="right" width="250" heigth="250" src="img.png" ></img>
+<img align="right" width="210" heigth="210" src="img.png" ></img>
 ### Hello! :vulcan_salute: Welcome to my repository.
 I am Felipe and i study System Analysis. :monocle_face:<br/>
 Currently living in Rio de Janeiro, Brazil.<br/>
