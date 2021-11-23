@@ -1,15 +1,7 @@
-<div>
-    <img align="right" width="200" heigth="200" src="img.png" ></img>
-    ### Hello! :vulcan_salute: Welcome to my repository.
-    I am Felipe and i study System Analysis. :monocle_face:<br/>
-    Currently living in Rio de Janeiro, Brazil.<br/>
-</div>
-<div style="display:inline_block" >
-    <a href='https://github.com/felipebaloneker'>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipebaloneker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebaloneker&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-</div></br>
+<img align="right" width="200" heigth="200" src="img.png" ></img>
+### Hello! :vulcan_salute: Welcome to my repository.
+I am Felipe and i study System Analysis. :monocle_face:<br/>
+Currently living in Rio de Janeiro, Brazil.<br/>
 
 ### :crossed_swords: Skills:
 
@@ -25,7 +17,7 @@
     <img align="center" height='40' alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div></br>
 
-### Contact:
+### :mage: Contact:
 
 <div>
 <a href="mailto:felipebaloneker23@gmail.com" target="_blank">
@@ -41,3 +33,10 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </div>
+
+<div >
+    <a href='https://github.com/felipebaloneker'>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipebaloneker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebaloneker&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+</div></br>
